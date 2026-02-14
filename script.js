@@ -2,7 +2,7 @@ const gifStages = [
     "https://media1.tenor.com/m/0VvvoP4v9e8AAAAC/hola.gif",    // 0 normal
     "https://media.tenor.com/h796J-dd0FUAAAAj/utya-utya-duck.gif",  // 1 confused
     "https://media.tenor.com/vkXcCpPyFM8AAAAj/utya-telegram-duck.gif",             // 2 pleading
-    "https://media.tenor.com/vkXcCpPyFM8AAAAj/utya-telegram-duck.gif",             // 3 sad
+    "https://media1.tenor.com/m/92Wy0Y9_QRYAAAAC/utya-duck.gif",             // 3 sad
     "https://media1.tenor.com/m/Ge1T5k9YSIwAAAAC/cxyduck-cxydck.gif",       // 4 sadder
     "https://media1.tenor.com/m/1rGL_hQANasAAAAC/utya-duck.gif",             // 5 devastated
     "https://media1.tenor.com/m/iUoKQPeDWK0AAAAd/utya-telegram-duck.gif",               // 6 very devastated
